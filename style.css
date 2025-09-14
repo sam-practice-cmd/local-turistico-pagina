@@ -60,6 +60,7 @@ h1, h2, h3 {
 
 h3 {
     margin: 20px auto 4px;
+    font-size: 28px;
 }
 
 p {
@@ -68,7 +69,7 @@ p {
 
 .place img {
     height: 350px;
-    margin: 48px auto 20px;
+    margin: 48px auto 0px;
 }
 
 span{
